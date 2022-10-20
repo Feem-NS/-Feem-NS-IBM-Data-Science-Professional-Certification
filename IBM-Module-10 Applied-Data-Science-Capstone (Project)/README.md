@@ -1,4 +1,4 @@
-Coursera-IBM Data Science Professional Certificate: Applied Data Science Capstone
+**Coursera-IBM Data Science Professional Certificate: Applied Data Science Capstone**
 
 About this Course
 
@@ -13,8 +13,8 @@ In this course, there will not be much new learning, instead you’ll focus on h
 This course is part of multiple programs
 
 This course can be applied to multiple Specializations or Professional Certificates programs. Completing this course will count towards your learning in any of the following programs:
-Applied Data Science Specialization
-IBM Data Science Professional Certificate
+- Applied Data Science Specialization
+- IBM Data Science Professional Certificate
 
 WHAT YOU WILL LEARN
 
